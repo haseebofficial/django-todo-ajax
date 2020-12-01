@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'a$)l)cwp+l-db)f7_-$@s7i5m3+ag79%20#@23e)!+iye_8#ds'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['polsapss.herokuapp.com']
 
